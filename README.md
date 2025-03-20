@@ -20,4 +20,4 @@ Site do tipo landing page para divulgar o jogo Let's Go, Pikachu. O objetivo des
 
 ## Autor
 
-- [Daniel Torres](https://www.linkedin.com/in/daniel-torres-007a54217/)
+- [Daniel Torres](https://www.linkedin.com/in/daniel-gomes-torres-890102284/)
